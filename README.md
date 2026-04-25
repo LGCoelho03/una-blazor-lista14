@@ -9,6 +9,6 @@
 
 • Tecnologia utilizada: Blazor WebAssembly
 
-• Screenshot: <<img width="890" height="337" alt="image" src="https://github.com/user-attachments/assets/54eafc3e-6b0e-49ae-9e6c-7f12f7fa2af5" />
+• Screenshot: <img width="890" height="337" alt="image" src="https://github.com/user-attachments/assets/54eafc3e-6b0e-49ae-9e6c-7f12f7fa2af5" />
 
 • Heuristica: Ajuda e documentação: A interface foi elaborada para ser intuitiva, exibindo o conteúdo de forma clara e sem que houvesse necessidade de documentação.
